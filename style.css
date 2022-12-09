@@ -1,0 +1,50 @@
+body 
+{
+    background-image: url(suizokukan.png);
+    /* width: 100%;
+    height: 100vh; */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+/* 魚情報 */
+#main_fish{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 400px;
+    height: 300px;
+}
+
+#tako1 , #tako2 , #tako3 , #tako4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+}
+
+#many_fish1 , #many_fish2 , #many_fish3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+}
+ 
+#maguro1 , #maguro2 , #maguro3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+}
+
+
+#wakame1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+}
